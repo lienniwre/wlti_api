@@ -1,0 +1,565 @@
+{
+    "products": [
+     
+      {
+        "id": 101,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS106-1C-5S",
+        "product_details": "CRS106-1C-5S",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS106-1C-5S.png",
+        "specs":{
+          "network_layer":"manageable",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 102,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS112-8G-4S-IN",
+        "product_details": "CRS112-8G-4S-IN",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS112-8G-4S-IN.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 103,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS112-8P-4S-IN",
+        "product_details": "CRS112-8P-4S-IN",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS112-8P-4S-IN.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 104,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS305-1G-4S+IN",
+        "product_details": "CRS305-1G-4S+IN",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS305-1G-4S+IN.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+          
+      },
+      {
+        "id": 105,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS305-1G-4S+OUT",
+        "product_details": "CRS305-1G-4S+OUT",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS305-1G-4S+OUT.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 106,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS309-1G-8S+IN",
+        "product_details": "CRS309-1G-8S+IN",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS309-1G-8S+IN.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 107,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS310-1G-5S-4S+IN",
+        "product_details": "CRS310-1G-5S-4S+IN",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS310-1G-5S-4S+IN.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 108,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS310-1G-5S-4S+OUT",
+        "product_details": "CRS310-1G-5S-4S+OUT",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS310-1G-5S-4S+OUT.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 109,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS310-8G+2S+IN",
+        "product_details": "CRS310-8G+2S+IN",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS310-8G+2S+IN.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 110,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS318-1Fi-15Fr-2S-OUT",
+        "product_details": "CRS318-1Fi-15Fr-2S-OUT",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS318-1Fi-15Fr-2S-OUT.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 111,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS318-16P-2S+OUT",
+        "product_details": "CRS318-16P-2S+OUT",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS318-16P-2S+OUT.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 112,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS326-24G-2S+IN",
+        "product_details": "CRS326-24G-2S+IN",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS326-24G-2S+IN.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"24",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 113,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS326-24G-2S+RM",
+        "product_details": "CRS326-24G-2S+RM",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS326-24G-2S+RM.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"24",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 114,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CRS328-4C-20S-4S+RM",
+        "product_details": "CRS328-4C-20S-4S+RM",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CRS328-4C-20S-4S+RM.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 115,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CSS106-1G-4P-1S",
+        "product_details": "CSS106-1G-4P-1S",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CSS106-1G-4P-1S.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 116,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CSS106-5G-1S",
+        "product_details": "CSS106-5G-1S",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CSS106-5G-1S.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 117,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CSS326-24G-2S+RM",
+        "product_details": "CSS326-24G-2S+RM",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CSS326-24G-2S+RM.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"24",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 118,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CSS610-1Gi-7R-2S+OUT",
+        "product_details": "CSS610-1Gi-7R-2S+OUT",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CSS610-1Gi-7R-2S+OUT.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 119,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CSS610-8G-2S+IN",
+        "product_details": "CSS610-8G-2S+IN",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CSS610-8G-2S+IN.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 120,
+        "category": "Network Devices",
+        "subcategory": "PoE",
+        "brand": "Mikrotik",
+        "product_name": "CSS610-8P-2S+IN",
+        "product_details": "CSS610-8P-2S+IN",
+        "brand_logo_src":"/assets/BrandLogos/MIKROTIK.png",
+        "product_img_src":"/assets/Products/Mikrotik/Switches/CSS610-8P-2S+IN.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+
+      },
+      {
+        "id": 121,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Cambium",
+        "product_name": "cnMatrix EX2010-P Switch",
+        "product_details": "cnMatrixEX2010PSwitch",
+        "brand_logo_src": "/assets/BrandLogos/CAMBIUM.png",
+        "product_img_src": "/assets/Products/Cambium/cnMatrix_switches/EX2000_SERIES_PRODUCTS/cnMatrix_EX2010_P_Switch.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+      },
+      {
+        "id": 122,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Cambium",
+        "product_name": "cnMatrix EX2010 Switch",
+        "product_details": "cnMatrix EX2010 Switch",
+        "brand_logo_src": "/assets/BrandLogos/CAMBIUM.png",
+        "product_img_src": "/assets/Products/Cambium/cnMatrix_switches/EX2000_SERIES_PRODUCTS/cnMatrix_EX2010_Switch.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+      },
+      {
+        "id": 123,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Cambium",
+        "product_name": "cnMatrix EX2028-P Switch",
+        "product_details": "cnMatrix EX2028-P Switch",
+        "brand_logo_src": "/assets/BrandLogos/CAMBIUM.png",
+        "product_img_src": "/assets/Products/Cambium/cnMatrix_switches/EX2000_SERIES_PRODUCTS/cnMatrix_EX2028_P_Switch.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+      },
+      {
+        "id": 124,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Cambium",
+        "product_name": "cnMatrix EX2016M-P Switch",
+        "product_details": "cnMatrix EX2016M-P Switch",
+        "brand_logo_src": "/assets/BrandLogos/CAMBIUM.png",
+        "product_img_src": "/assets/Products/Cambium/cnMatrix_switches/EX2000_SERIES_PRODUCTS/cnMatrix_EX2016_MP_Switch.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+      },
+      {
+        "id": 125,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Cambium",
+        "product_name": "cnMatrix EX2028 Switch",
+        "product_details": "cnMatrix EX2028 Switch",
+        "brand_logo_src": "/assets/BrandLogos/CAMBIUM.png",
+        "product_img_src": "/assets/Products/Cambium/cnMatrix_switches/EX2000_SERIES_PRODUCTS/cnMatrix_EX2028_Switch.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+      },
+      {
+        "id": 126,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Cambium",
+        "product_name": "cnMatrix EX2052 Switch",
+        "product_details": "cnMatrix EX2052 Switch",
+        "brand_logo_src": "/assets/BrandLogos/CAMBIUM.png",
+        "product_img_src": "/assets/Products/Cambium/cnMatrix_switches/EX2000_SERIES_PRODUCTS/cnMatrix_EX2052_Switch.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+      },
+      {
+        "id": 127,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Cambium",
+        "product_name": "cnMatrix EX2052-P Switch",
+        "product_details":"cnMatrix EX2052-P Switch" ,
+        "brand_logo_src": "/assets/BrandLogos/CAMBIUM.png",
+        "product_img_src": "/assets/Products/Cambium/cnMatrix_switches/EX2000_SERIES_PRODUCTS/cnMatrix_EX2052P_Switch.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"",
+          "poe":""
+        }
+      },
+      {
+        "id": 128,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Ubiquiti",
+        "product_name": "USW-Pro-Max-24",
+        "product_details":"USW-Pro-Max-24" ,
+        "brand_logo_src": "/assets/BrandLogos/UBIQUITI.png",
+        "product_img_src": "/assets/Products/Ubiquiti/Professional_Max_Switch/Non-POE/USW-Pro-Max-24.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"24",
+          "poe":""
+        }
+      },
+      {
+        "id": 129,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Ubiquiti",
+        "product_name": "USW-Pro-48",
+        "product_details":"USW-Pro-48" ,
+        "brand_logo_src": "/assets/BrandLogos/UBIQUITI.png",
+        "product_img_src": "/assets/Products/Ubiquiti/Professional_Switch/Non-PoE/USW-Pro-48.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"48",
+          "poe":""
+        }
+      },
+      {
+        "id": 130,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Ubiquiti",
+        "product_name": "USW-Pro-24",
+        "product_details":"USW-Pro-24" ,
+        "brand_logo_src": "/assets/BrandLogos/UBIQUITI.png",
+        "product_img_src": "/assets/Products/Ubiquiti/Professional_Switch/Non-PoE/USW-Pro-24.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"24",
+          "poe":""
+        }
+      },
+      {
+        "id": 131,
+        "category": "Network Switch",
+        "subcategory": "PoE",
+        "brand": "Ubiquiti",
+        "product_name": "USW-Pro-24-POE (400W)",
+        "product_details":"USW-Pro-24-POE (400W)" ,
+        "brand_logo_src": "/assets/BrandLogos/UBIQUITI.png",
+        "product_img_src": "/assets/Products/Ubiquiti/Professional_Switch/PoE/USW-Pro-24-POE400W.png",
+        "specs":{
+          "network_layer":"unmanage",
+          "ports":"24",
+          "poe":""
+        }
+      }
+      
+    ],
+    
+      "categories": [
+        {
+          "category_id": 1,
+          "category_name": "CCTV",
+          "subcategories": [
+            {
+              "subcategory_id": 1,
+              "subcategory_name": "Indoor Cameras"
+            },
+            {
+              "subcategory_id": 2,
+              "subcategory_name": "Outdoor Cameras"
+            }
+          ]
+        },
+        {
+          "category_id": 2,
+          "category_name": "Network Switches",
+          "subcategories": [
+            {
+              "subcategory_id": 3,
+              "subcategory_name": "Managed Switches"
+            },
+            {
+              "subcategory_id": 4,
+              "subcategory_name": "Unmanaged Switches"
+            }
+          ]
+        },
+        {
+          "category_id": 3,
+          "category_name": "Two Way Radio",
+          "subcategories": [
+            {
+              "subcategory_id": 5,
+              "subcategory_name": "Handheld Radios"
+            },
+            {
+              "subcategory_id": 6,
+              "subcategory_name": "Vehicle Radios"
+            }
+          ]
+        },
+        {
+          "category_id": 4,
+          "category_name": "Network Routers",
+          "subcategories": [
+            {
+              "subcategory_id": 7,
+              "subcategory_name": "Wireless Routers"
+            },
+            {
+              "subcategory_id": 8,
+              "subcategory_name": "Enterprise Routers"
+            }
+          ]
+        },
+        {
+          "category_id": 5,
+          "category_name": "GPS Devices",
+          "subcategories": [
+            {
+              "subcategory_id": 9,
+              "subcategory_name": "Vehicle GPS Trackers"
+            },
+            {
+              "subcategory_id": 10,
+              "subcategory_name": "Outdoor GPS Units"
+            }
+          ]
+        }
+      ]
+    
+  }
